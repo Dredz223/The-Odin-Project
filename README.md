@@ -1,3 +1,3 @@
 # The Odin Project
- Coding Practice from The Odin Project
- Starting with HTML
+ <p>Coding Practice from The Odin Project</P>
+ <p>Starting with HTML</p>
